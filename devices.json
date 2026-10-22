@@ -1,0 +1,909 @@
+[
+  {
+    "codename": "a21s",
+    "name": "Galaxy A21s",
+    "soc": "Samsung Exynos 850",
+    "lineage_device_tree": "android_device_samsung_a21s",
+    "lineage_kernel_repo": "android_kernel_samsung_exynos850",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/a21s.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_exynos850 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_a21s",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "a52q",
+    "name": "Galaxy A52 4G",
+    "soc": "Qualcomm SM7125 Snapdragon 720G",
+    "lineage_device_tree": "android_device_samsung_a52q",
+    "lineage_kernel_repo": "android_kernel_samsung_sm7125",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/a52q.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_sm7125 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_a52q",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "a52sxq",
+    "name": "Galaxy A52s 5G",
+    "soc": "Qualcomm SM7325 Snapdragon 778G 5G",
+    "lineage_device_tree": "android_device_samsung_a52sxq",
+    "lineage_kernel_repo": "android_kernel_samsung_sm7325",
+    "kernel_version": "5.4",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/a52sxq.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_sm7325 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_a52sxq",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "a71",
+    "name": "Galaxy A71",
+    "soc": "Qualcomm SM7150-AA Snapdragon 730",
+    "lineage_device_tree": "android_device_samsung_a71",
+    "lineage_kernel_repo": "android_kernel_samsung_a71",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/a71.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_a71 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_a71",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "a72q",
+    "name": "Galaxy A72",
+    "soc": "Qualcomm SM7125 Snapdragon 720G",
+    "lineage_device_tree": "android_device_samsung_a72q",
+    "lineage_kernel_repo": "android_kernel_samsung_sm7125",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/a72q.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_sm7125 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_a72q",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "a73xq",
+    "name": "Galaxy A73 5G",
+    "soc": "Qualcomm SM7325 Snapdragon 778G 5G",
+    "lineage_device_tree": "android_device_samsung_a73xq",
+    "lineage_kernel_repo": "android_kernel_samsung_sm7325",
+    "kernel_version": "5.4",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/a73xq.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_sm7325 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_a73xq",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "b0s",
+    "name": "Galaxy S22 Ultra",
+    "soc": "Samsung Exynos 2200",
+    "lineage_device_tree": "android_device_samsung_b0s",
+    "lineage_kernel_repo": "android_kernel_samsung_s5e9925",
+    "kernel_version": "5.10",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/b0s.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_s5e9925 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_b0s",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "beyond0lte",
+    "name": "Galaxy S10e",
+    "soc": "Samsung Exynos 9820",
+    "lineage_device_tree": "android_device_samsung_beyond0lte",
+    "lineage_kernel_repo": "android_kernel_samsung_exynos9820",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/beyond0lte.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_exynos9820 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_beyond0lte",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "beyond1lte",
+    "name": "Galaxy S10",
+    "soc": "Samsung Exynos 9820",
+    "lineage_device_tree": "android_device_samsung_beyond1lte",
+    "lineage_kernel_repo": "android_kernel_samsung_exynos9820",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/beyond1lte.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_exynos9820 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_beyond1lte",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "beyond2lte",
+    "name": "Galaxy S10+",
+    "soc": "Samsung Exynos 9820",
+    "lineage_device_tree": "android_device_samsung_beyond2lte",
+    "lineage_kernel_repo": "android_kernel_samsung_exynos9820",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/beyond2lte.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_exynos9820 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_beyond2lte",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "beyondx",
+    "name": "Galaxy S10 5G",
+    "soc": "Samsung Exynos 9820",
+    "lineage_device_tree": "android_device_samsung_beyondx",
+    "lineage_kernel_repo": "android_kernel_samsung_exynos9820",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/beyondx.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_exynos9820 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_beyondx",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "c1s",
+    "name": "Galaxy Note20 (4G/5G)",
+    "soc": "Samsung Exynos 990",
+    "lineage_device_tree": "android_device_samsung_c1s",
+    "lineage_kernel_repo": "android_kernel_samsung_universal9830",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/c1s.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_universal9830 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_c1s",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "c2s",
+    "name": "Galaxy Note20 Ultra (4G/5G)",
+    "soc": "Samsung Exynos 990",
+    "lineage_device_tree": "android_device_samsung_c2s",
+    "lineage_kernel_repo": "android_kernel_samsung_universal9830",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/c2s.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_universal9830 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_c2s",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "d1",
+    "name": "Galaxy Note10",
+    "soc": "Samsung Exynos 9825",
+    "lineage_device_tree": "android_device_samsung_d1",
+    "lineage_kernel_repo": "android_kernel_samsung_exynos9820",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/d1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_exynos9820 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_d1",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "d1x",
+    "name": "Galaxy Note10 5G",
+    "soc": "Samsung Exynos 9825",
+    "lineage_device_tree": "android_device_samsung_d1x",
+    "lineage_kernel_repo": "android_kernel_samsung_exynos9820",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/d1x.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_exynos9820 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_d1x",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "d2s",
+    "name": "Galaxy Note10+",
+    "soc": "Samsung Exynos 9825",
+    "lineage_device_tree": "android_device_samsung_d2s",
+    "lineage_kernel_repo": "android_kernel_samsung_exynos9820",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/d2s.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_exynos9820 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_d2s",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "d2x",
+    "name": "Galaxy Note10+ 5G",
+    "soc": "Samsung Exynos 9825",
+    "lineage_device_tree": "android_device_samsung_d2x",
+    "lineage_kernel_repo": "android_kernel_samsung_exynos9820",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/d2x.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_exynos9820 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_d2x",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "dm1q",
+    "name": "Galaxy S23",
+    "soc": "Qualcomm SM8550 Snapdragon 8 Gen2",
+    "lineage_device_tree": "android_device_samsung_dm1q",
+    "lineage_kernel_repo": "android_kernel_samsung_sm8550",
+    "kernel_version": "5.15",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/dm1q.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_sm8550 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_dm1q",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "f62",
+    "name": "Galaxy F62",
+    "soc": "Samsung Exynos 9825",
+    "lineage_device_tree": "android_device_samsung_f62",
+    "lineage_kernel_repo": "android_kernel_samsung_exynos9820",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/f62_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_exynos9820 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_f62",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "f62",
+    "name": "Galaxy M62",
+    "soc": "Samsung Exynos 9825",
+    "lineage_device_tree": "android_device_samsung_f62",
+    "lineage_kernel_repo": "android_kernel_samsung_exynos9820",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/f62_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_exynos9820 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_f62",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "g0s",
+    "name": "Galaxy S22+",
+    "soc": "Samsung Exynos 2200",
+    "lineage_device_tree": "android_device_samsung_g0s",
+    "lineage_kernel_repo": "android_kernel_samsung_s5e9925",
+    "kernel_version": "5.10",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/g0s.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_s5e9925 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_g0s",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "gta4l",
+    "name": "Galaxy Tab A7 10.4 2020 (LTE)",
+    "soc": "Qualcomm SM6115 Snapdragon 662",
+    "lineage_device_tree": "android_device_samsung_gta4l",
+    "lineage_kernel_repo": "android_kernel_samsung_sm6115",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/gta4l.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_sm6115 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_gta4l",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "gta4lwifi",
+    "name": "Galaxy Tab A7 10.4 2020 (Wi-Fi)",
+    "soc": "Qualcomm SM6115 Snapdragon 662",
+    "lineage_device_tree": "android_device_samsung_gta4lwifi",
+    "lineage_kernel_repo": "android_kernel_samsung_sm6115",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/gta4lwifi.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_sm6115 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_gta4lwifi",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "gta4xl",
+    "name": "Galaxy Tab S6 Lite (LTE)",
+    "soc": "Samsung Exynos 9611",
+    "lineage_device_tree": "android_device_samsung_gta4xl",
+    "lineage_kernel_repo": "android_kernel_samsung_gta4xl",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/gta4xl.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_gta4xl (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_gta4xl",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "gta4xlswifi",
+    "name": "Galaxy Tab S6 Lite 2024 (Wi-Fi)",
+    "soc": "Samsung Exynos 1280",
+    "lineage_device_tree": "android_device_samsung_gta4xlswifi",
+    "lineage_kernel_repo": "android_kernel_samsung_gta4xls",
+    "kernel_version": "5.10",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/gta4xlswifi.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_gta4xls (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_gta4xlswifi",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "gta4xlwifi",
+    "name": "Galaxy Tab S6 Lite (Wi-Fi)",
+    "soc": "Samsung Exynos 9611",
+    "lineage_device_tree": "android_device_samsung_gta4xlwifi",
+    "lineage_kernel_repo": "android_kernel_samsung_gta4xl",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "17.1",
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/gta4xlwifi.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_gta4xl (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_gta4xlwifi",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "gts7l",
+    "name": "Galaxy Tab S7 (LTE)",
+    "soc": "Qualcomm SM8250-AB Snapdragon 865+",
+    "lineage_device_tree": "android_device_samsung_gts7l",
+    "lineage_kernel_repo": "android_kernel_samsung_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/gts7l.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_gts7l",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "gts7lwifi",
+    "name": "Galaxy Tab S7 (Wi-Fi)",
+    "soc": "Qualcomm SM8250-AB Snapdragon 865+",
+    "lineage_device_tree": "android_device_samsung_gts7lwifi",
+    "lineage_kernel_repo": "android_kernel_samsung_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/gts7lwifi.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_gts7lwifi",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "m52xq",
+    "name": "Galaxy M52 5G",
+    "soc": "Qualcomm SM7325 Snapdragon 778G 5G",
+    "lineage_device_tree": "android_device_samsung_m52xq",
+    "lineage_kernel_repo": "android_kernel_samsung_sm7325",
+    "kernel_version": "5.4",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/m52xq.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_sm7325 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_m52xq",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "r0s",
+    "name": "Galaxy S22",
+    "soc": "Samsung Exynos 2200",
+    "lineage_device_tree": "android_device_samsung_r0s",
+    "lineage_kernel_repo": "android_kernel_samsung_s5e9925",
+    "kernel_version": "5.10",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/r0s.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_s5e9925 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_r0s",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "r8q",
+    "name": "Galaxy S20 FE (Snapdragon)",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "lineage_device_tree": "android_device_samsung_r8q",
+    "lineage_kernel_repo": "android_kernel_samsung_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "21",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/r8q_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_r8q",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "r8q",
+    "name": "Galaxy S20 FE 5G",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "lineage_device_tree": "android_device_samsung_r8q",
+    "lineage_kernel_repo": "android_kernel_samsung_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "21",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/r8q_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_r8q",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "r8s",
+    "name": "Galaxy S20 FE (Exynos)",
+    "soc": "Samsung Exynos 990",
+    "lineage_device_tree": "android_device_samsung_r8s",
+    "lineage_kernel_repo": "android_kernel_samsung_universal9830",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/r8s.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_universal9830 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_r8s",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "x1s",
+    "name": "Galaxy S20 (4G/5G)",
+    "soc": "Samsung Exynos 990",
+    "lineage_device_tree": "android_device_samsung_x1s",
+    "lineage_kernel_repo": "android_kernel_samsung_universal9830",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/x1s.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_universal9830 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_x1s",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "y2s",
+    "name": "Galaxy S20+ (4G/5G)",
+    "soc": "Samsung Exynos 990",
+    "lineage_device_tree": "android_device_samsung_y2s",
+    "lineage_kernel_repo": "android_kernel_samsung_universal9830",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/y2s.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_universal9830 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_y2s",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "z3s",
+    "name": "Galaxy S20 Ultra (5G)",
+    "soc": "Samsung Exynos 990",
+    "lineage_device_tree": "android_device_samsung_z3s",
+    "lineage_kernel_repo": "android_kernel_samsung_universal9830",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "samloader_rs",
+    "lineage_versions": [
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/z3s.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'samloader_rs', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_samsung_universal9830 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_samsung_z3s",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  }
+]
