@@ -1,0 +1,150 @@
+{
+  "brand": "samsung",
+  "status": "unverified",
+  "devices": [
+    {
+      "codename": "a21s",
+      "model": "Galaxy A21s"
+    },
+    {
+      "codename": "a52q",
+      "model": "Galaxy A52 4G"
+    },
+    {
+      "codename": "a52sxq",
+      "model": "Galaxy A52s 5G"
+    },
+    {
+      "codename": "a71",
+      "model": "Galaxy A71"
+    },
+    {
+      "codename": "a72q",
+      "model": "Galaxy A72"
+    },
+    {
+      "codename": "a73xq",
+      "model": "Galaxy A73 5G"
+    },
+    {
+      "codename": "b0s",
+      "model": "Galaxy S22 Ultra"
+    },
+    {
+      "codename": "beyond0lte",
+      "model": "Galaxy S10e"
+    },
+    {
+      "codename": "beyond1lte",
+      "model": "Galaxy S10"
+    },
+    {
+      "codename": "beyond2lte",
+      "model": "Galaxy S10+"
+    },
+    {
+      "codename": "beyondx",
+      "model": "Galaxy S10 5G"
+    },
+    {
+      "codename": "c1s",
+      "model": "Galaxy Note20 (4G/5G)"
+    },
+    {
+      "codename": "c2s",
+      "model": "Galaxy Note20 Ultra (4G/5G)"
+    },
+    {
+      "codename": "d1",
+      "model": "Galaxy Note10"
+    },
+    {
+      "codename": "d1x",
+      "model": "Galaxy Note10 5G"
+    },
+    {
+      "codename": "d2s",
+      "model": "Galaxy Note10+"
+    },
+    {
+      "codename": "d2x",
+      "model": "Galaxy Note10+ 5G"
+    },
+    {
+      "codename": "dm1q",
+      "model": "Galaxy S23"
+    },
+    {
+      "codename": "f62",
+      "model": "Galaxy F62"
+    },
+    {
+      "codename": "f62",
+      "model": "Galaxy M62"
+    },
+    {
+      "codename": "g0s",
+      "model": "Galaxy S22+"
+    },
+    {
+      "codename": "gta4l",
+      "model": "Galaxy Tab A7 10.4 2020 (LTE)"
+    },
+    {
+      "codename": "gta4lwifi",
+      "model": "Galaxy Tab A7 10.4 2020 (Wi-Fi)"
+    },
+    {
+      "codename": "gta4xl",
+      "model": "Galaxy Tab S6 Lite (LTE)"
+    },
+    {
+      "codename": "gta4xlswifi",
+      "model": "Galaxy Tab S6 Lite 2024 (Wi-Fi)"
+    },
+    {
+      "codename": "gta4xlwifi",
+      "model": "Galaxy Tab S6 Lite (Wi-Fi)"
+    },
+    {
+      "codename": "gts7l",
+      "model": "Galaxy Tab S7 (LTE)"
+    },
+    {
+      "codename": "gts7lwifi",
+      "model": "Galaxy Tab S7 (Wi-Fi)"
+    },
+    {
+      "codename": "m52xq",
+      "model": "Galaxy M52 5G"
+    },
+    {
+      "codename": "r0s",
+      "model": "Galaxy S22"
+    },
+    {
+      "codename": "r8q",
+      "model": "Galaxy S20 FE (Snapdragon)"
+    },
+    {
+      "codename": "r8q",
+      "model": "Galaxy S20 FE 5G"
+    },
+    {
+      "codename": "r8s",
+      "model": "Galaxy S20 FE (Exynos)"
+    },
+    {
+      "codename": "x1s",
+      "model": "Galaxy S20 (4G/5G)"
+    },
+    {
+      "codename": "y2s",
+      "model": "Galaxy S20+ (4G/5G)"
+    },
+    {
+      "codename": "z3s",
+      "model": "Galaxy S20 Ultra (5G)"
+    }
+  ]
+}
